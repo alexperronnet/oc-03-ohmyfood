@@ -45,13 +45,13 @@ The font is:
 1. Clone the repository
 
 ```sh
-git clone https://github.com/alexperronnet/openclassrooms-p3-ohmyfood.git
+git clone https://github.com/alexperronnet/openclassrooms-03-ohmyfood.git
 ```
 
 2. Navigate to the repository
 
 ```sh
-cd openclassrooms-p3-ohmyfood
+cd openclassrooms-03-ohmyfood
 ```
 
 3. Install dependencies

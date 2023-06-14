@@ -1,5 +1,9 @@
 # OhMyFood
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4c7ebda1-a323-42ff-af76-0d785d8e8a43/deploy-status)](https://app.netlify.com/sites/openclassrooms-03-ohmyfood/deploys)
+
+> **Disclaimer**: This repository houses a project undertaken as part of my "**JavaScript React Developer**" training program with [OpenClassrooms](https://openclassrooms.com/). Upon the conclusion of the program on **September 20th, 2023**, the project will no longer be updated or maintained.
+
 ![OhMyFood preview](./assets/preview.png)
 
 ## Overview
@@ -79,7 +83,3 @@ npm run preview
 This is an OpenClassrooms project. The code is freely reusable, but assets (images and logo) are not because they are not mine.
 
 If you are also a student of OC, you can freely use my work as inspiration, but I advise you not to copy parts of it.
-
----
-
-See the [live URL](https://ohmyfood.alexperronnet.dev)
